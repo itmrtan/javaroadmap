@@ -4,7 +4,7 @@
 JAVA ROADMAP 专注JAVA学习👉求职之路。围绕学习和求职打造众多服务，欢迎在星球学习成长，帮你走好职业生涯每一步。
 
 - 星球构建了一个类似游戏的【角色体系】，每个Java学员入驻星球后将获得一个角色，每个角色代表者你当前所属的知识水平，并在后期围绕角色体系打造一系列的学习晋升服务
-- 如果觉得不错，星球用户可以通过【🤑 [推广返利](/promotion/)】帮忙进行宣传，入驻用户还能获得返利
+- 如果觉得不错，星球用户可以通过【🤑 [推广返利](https://www.javaroadmap.com/promotion/)】帮忙进行宣传，入驻用户还能获得返利
 
 :memo: Dreams without goals are just dreams. And they ultimately fuel disappointment. Have dreams, but have goals, life goals, yearly goals, monthly goals, daily goals. Goals are all about action, Goals turn dreams into reality
 

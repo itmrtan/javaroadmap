@@ -1,0 +1,29 @@
+{
+  "author": "GOLANG ROADMAP",
+  "homepage": "./",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev .",
+    "build": "vuepress build .",
+    "push": "bash scripts/push.sh",
+    "deploy": "bash scripts/deploy.sh",
+    "fix-memory-limit": "cross-env LIMIT=4096 increase-memory-limit"
+  },
+  "dependencies": {
+    "@vuepress-reco/vuepress-plugin-rss": "1.0.0",
+    "@vuepress/plugin-google-analytics": "1.2.0",
+    "@vuepress/plugin-pwa": "1.2.0",
+    "@vuepress/plugin-register-components": "1.2.0",
+    "axios": "^0.20.0",
+    "vuepress": "^1.4.0",
+    "vuepress-plugin-flowchart": "1.4.3",
+    "vuepress-plugin-nuggets-style-copy": "^1.0.3",
+    "vuepress-plugin-sitemap": "2.3.0",
+    "vuepress-theme-reco": "1.5.3",
+    "whatwg-fetch": "3.0.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "v-dialogs": "^2.1.4"
+  }
+}
